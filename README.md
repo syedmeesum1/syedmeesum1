@@ -45,13 +45,6 @@ Dynamic and detail-oriented professional with expertise in Web Development, Mana
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- GitHub Stats Card -->
-![Syed Mesam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark&count_private=true&hide=issues,pull_requests,stars&hide_rank=false&layout=compact)
-
-### 📈 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect With Me
 <p align="left">
