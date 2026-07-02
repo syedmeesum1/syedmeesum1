@@ -27,6 +27,7 @@ Dynamic and detail-oriented professional with expertise in Web Development, Mana
 ### Server, Hosting & Security
 <img src="https://img.shields.io/badge/-cPanel%20%26%20WHM-FF6C2C?style=flat&logo=cpanel&logoColor=white" alt="cPanel & WHM" />
 <img src="https://img.shields.io/badge/-Hetzner%20VPS-D50C22?style=flat&logo=hetzner&logoColor=white" alt="Hetzner VPS" />
+<img src="https://img.shields.io/badge/-Contabo%20VPS-21409A?style=flat&logo=contabo&logoColor=white" alt="Contabo VPS" />
 <img src="https://img.shields.io/badge/-Cloudflare%20Security-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare Security" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 
