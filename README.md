@@ -4,9 +4,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Lead%20Web%20Developer-blue?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/-Karachi,%20Pakistan-green?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/-DevOps%20Engineer-green?style=flat-square" alt="Location" />
 </p>
-
 ## 🚀 Career Summary
 Dynamic and detail-oriented professional with expertise in Web Development, Management, and Digital Marketing. Adept at leveraging Agile methodologies and team leadership to drive project success. Proficient in WordPress with a keen eye for design and innovation. Strong decision-maker with excellent problem-solving skills and a focus on quality assurance and service.
 
