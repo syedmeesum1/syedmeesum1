@@ -12,11 +12,6 @@ Dynamic and detail-oriented professional with expertise in Web Development, Mana
 - 🔭 I’m currently working as a **Lead Front-End & WordPress Developer**.
 - ⚡ Fun fact: I specialize in crafting responsive, high-performance websites and managing secure cloud/VPS infrastructures.
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="mailto:mesamabbas5321@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
 ## 🛠 Tech Stack
 
 ### Web & CMS Technologies
