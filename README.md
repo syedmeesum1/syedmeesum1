@@ -9,7 +9,7 @@
 ## 🚀 Career Summary
 Dynamic and detail-oriented professional with expertise in Web Development, Management, and Digital Marketing. Adept at leveraging Agile methodologies and team leadership to drive project success. Proficient in WordPress with a keen eye for design and innovation. Strong decision-maker with excellent problem-solving skills and a focus on quality assurance and service.
 
-- 🔭 I’m currently working as a **Lead Front-End & WordPress Developer**.
+- 🔭 I’m currently working as a **Lead Front-End & WordPress Developer & Devops Engineer**.
 - ⚡ Fun fact: I specialize in crafting responsive, high-performance websites and managing secure cloud/VPS infrastructures.
 
 ## 🛠 Tech Stack
